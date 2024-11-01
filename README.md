@@ -3,15 +3,8 @@
 ## Ofcource here it is - 'Hello World!' 
 
 ### is md work?
-<picture>
-  <srcset="">
-</picture>
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://ru.pinterest.com/pin/1618549853081199/">
- <source media="(prefers-color-scheme: light)" srcset="https://unsplash.com/photos/white-and-gray-cat-IFxjDdqK_0U">
- <img alt="YOUR-ALT-TEXT" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Sleeping_cat_on_her_back.jpg/640px-Sleeping_cat_on_her_back.jpg">
-</picture>
+![cat](https://georgyii.github.io/test/mikhail-vasilyev-IFxjDdqK_0U-unsplash.jpg)
 
 <!--
 <picture>
